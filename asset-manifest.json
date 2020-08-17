@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/ShoppingListApp/static/js/main.242cbf40.chunk.js",
+    "main.js.map": "/ShoppingListApp/static/js/main.242cbf40.chunk.js.map",
+    "runtime-main.js": "/ShoppingListApp/static/js/runtime-main.4ec3411c.js",
+    "runtime-main.js.map": "/ShoppingListApp/static/js/runtime-main.4ec3411c.js.map",
+    "static/js/2.d12651ae.chunk.js": "/ShoppingListApp/static/js/2.d12651ae.chunk.js",
+    "static/js/2.d12651ae.chunk.js.map": "/ShoppingListApp/static/js/2.d12651ae.chunk.js.map",
+    "index.html": "/ShoppingListApp/index.html",
+    "precache-manifest.4f57a93be8169b1b0bdde28d3857a635.js": "/ShoppingListApp/precache-manifest.4f57a93be8169b1b0bdde28d3857a635.js",
+    "service-worker.js": "/ShoppingListApp/service-worker.js",
+    "static/js/2.d12651ae.chunk.js.LICENSE.txt": "/ShoppingListApp/static/js/2.d12651ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ec3411c.js",
+    "static/js/2.d12651ae.chunk.js",
+    "static/js/main.242cbf40.chunk.js"
+  ]
+}
